@@ -64,7 +64,7 @@ learnlens-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/aisartanim07/LearnLens-AI.git
 cd learnlens-ai
 ```
 
